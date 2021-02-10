@@ -14,10 +14,15 @@ https://github.com/nian0/-QQ-/releases
 返回列表类型布尔值
 
 例如:
+
 from nian import *
+
 nianqq("星星在唱歌",0,True)
 
 #这将会返回一个歌曲列表，并和一个mp3链接
+
 #网易和酷狗同理
+
 #nianwy
+
 #niankg
