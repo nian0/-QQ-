@@ -1,5 +1,5 @@
 # -QQ-
-免费白嫖酷狗，QQ,网易云音乐，不定时更新
+python免费白嫖酷狗，QQ,网易云音乐，不定时更新
 访问url获取
 https://github.com/nian0/-QQ-/releases
 
