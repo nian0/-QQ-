@@ -4,9 +4,13 @@
 https://github.com/nian0/-QQ-/releases
 
 食用方法:
+
 1.nianqq(歌曲名称,结果,返回列表)
+
 歌曲名称类型str
+
 结果类型int
+
 返回列表类型布尔值
 
 例如:
